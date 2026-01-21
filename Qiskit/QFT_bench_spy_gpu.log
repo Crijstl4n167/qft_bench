@@ -1,0 +1,308 @@
+CPU Marke/Name: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+Anzahl Kerne: 32
+Architektur: X86_64
+Flags: ['acpi', 'aes', 'aperfmperf', 'apic', 'arat', 'arch_perfmon', 'avx', 'bts', 'clflush', 'cmov', 'constant_tsc', 'cpuid', 'cx16', 'cx8', 'dca', 'de', 'ds_cpl', 'dtes64', 'dtherm', 'dts', 'epb', 'ept', 'est', 'flexpriority', 'flush_l1d', 'fpu', 'fxsr', 'ht', 'ibpb', 'ibrs', 'ida', 'lahf_lm', 'lm', 'mca', 'mce', 'md_clear', 'mmx', 'monitor', 'msr', 'mtrr', 'nonstop_tsc', 'nopl', 'nx', 'osxsave', 'pae', 'pat', 'pbe', 'pcid', 'pclmulqdq', 'pdcm', 'pdpe1gb', 'pebs', 'pge', 'pln', 'pni', 'popcnt', 'pse', 'pse36', 'pti', 'pts', 'rdtscp', 'rep_good', 'sep', 'smx', 'ss', 'ssbd', 'sse', 'sse2', 'sse4_1', 'sse4_2', 'ssse3', 'stibp', 'syscall', 'tm', 'tm2', 'tpr_shadow', 'tsc', 'tsc_deadline_timer', 'tscdeadline', 'vme', 'vmx', 'vnmi', 'vpid', 'x2apic', 'xsave', 'xsaveopt', 'xtopology', 'xtpr']
+CPU Marke/Name: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+Anzahl Kerne: 32
+Architektur: X86_64
+Flags: ['acpi', 'aes', 'aperfmperf', 'apic', 'arat', 'arch_perfmon', 'avx', 'bts', 'clflush', 'cmov', 'constant_tsc', 'cpuid', 'cx16', 'cx8', 'dca', 'de', 'ds_cpl', 'dtes64', 'dtherm', 'dts', 'epb', 'ept', 'est', 'flexpriority', 'flush_l1d', 'fpu', 'fxsr', 'ht', 'ibpb', 'ibrs', 'ida', 'lahf_lm', 'lm', 'mca', 'mce', 'md_clear', 'mmx', 'monitor', 'msr', 'mtrr', 'nonstop_tsc', 'nopl', 'nx', 'osxsave', 'pae', 'pat', 'pbe', 'pcid', 'pclmulqdq', 'pdcm', 'pdpe1gb', 'pebs', 'pge', 'pln', 'pni', 'popcnt', 'pse', 'pse36', 'pti', 'pts', 'rdtscp', 'rep_good', 'sep', 'smx', 'ss', 'ssbd', 'sse', 'sse2', 'sse4_1', 'sse4_2', 'ssse3', 'stibp', 'syscall', 'tm', 'tm2', 'tpr_shadow', 'tsc', 'tsc_deadline_timer', 'tscdeadline', 'vme', 'vmx', 'vnmi', 'vpid', 'x2apic', 'xsave', 'xsaveopt', 'xtopology', 'xtpr']
+Aer method=statevector, device=GPU, available=['GPU']
+Prepare statevector n=1
+Building circuit...
+Starting transpile...
+Run simulation...
+1 ... 0.00s ... 0.00s ... 10.31s ... 0.19s ... 10.50s ... 342.0078125MB ... 35.07052135467529MB
+Prepare statevector n=2
+Building circuit...
+Starting transpile...
+Run simulation...
+2 ... 0.00s ... 0.00s ... 1.14s ... 0.01s ... 1.15s ... 342.2421875MB ... 35.08324337005615MB
+Prepare statevector n=3
+Building circuit...
+Starting transpile...
+Run simulation...
+3 ... 0.00s ... 0.00s ... 1.13s ... 0.01s ... 1.14s ... 342.515625MB ... 35.08324337005615MB
+Prepare statevector n=4
+Building circuit...
+Starting transpile...
+Run simulation...
+4 ... 0.00s ... 0.00s ... 1.11s ... 0.01s ... 1.13s ... 342.59765625MB ... 35.08950901031494MB
+Prepare statevector n=5
+Building circuit...
+Starting transpile...
+Run simulation...
+5 ... 0.00s ... 0.00s ... 1.12s ... 0.02s ... 1.14s ... 342.66015625MB ... 35.097055435180664MB
+Prepare statevector n=6
+Building circuit...
+Starting transpile...
+Run simulation...
+6 ... 0.00s ... 0.00s ... 1.12s ... 0.02s ... 1.15s ... 342.77734375MB ... 35.11066818237305MB
+Prepare statevector n=7
+Building circuit...
+Starting transpile...
+Run simulation...
+7 ... 0.00s ... 0.00s ... 1.13s ... 0.03s ... 1.16s ... 342.84765625MB ... 35.11066818237305MB
+Prepare statevector n=8
+Building circuit...
+Starting transpile...
+Run simulation...
+8 ... 0.00s ... 0.00s ... 1.13s ... 0.04s ... 1.18s ... 342.95703125MB ... 35.131808280944824MB
+Prepare statevector n=9
+Building circuit...
+Starting transpile...
+Run simulation...
+9 ... 0.00s ... 0.00s ... 1.13s ... 0.05s ... 1.18s ... 343.015625MB ... 35.131808280944824MB
+Prepare statevector n=10
+Building circuit...
+Starting transpile...
+Run simulation...
+10 ... 0.00s ... 0.00s ... 1.13s ... 0.06s ... 1.19s ... 343.1953125MB ... 35.19911766052246MB
+Prepare statevector n=11
+Building circuit...
+Starting transpile...
+Run simulation...
+11 ... 0.00s ... 0.00s ... 1.15s ... 0.07s ... 1.22s ... 343.3828125MB ... 35.26750946044922MB
+Prepare statevector n=12
+Building circuit...
+Starting transpile...
+Run simulation...
+12 ... 0.00s ... 0.00s ... 1.13s ... 0.08s ... 1.21s ... 343.6484375MB ... 35.391456604003906MB
+Prepare statevector n=13
+Building circuit...
+Starting transpile...
+Run simulation...
+13 ... 0.00s ... 0.00s ... 1.14s ... 0.09s ... 1.23s ... 344.15625MB ... 35.68599605560303MB
+Prepare statevector n=14
+Building circuit...
+Starting transpile...
+Run simulation...
+14 ... 0.01s ... 0.00s ... 1.17s ... 0.10s ... 1.28s ... 345.01953125MB ... 35.90100574493408MB
+Prepare statevector n=15
+Building circuit...
+Starting transpile...
+Run simulation...
+15 ... 0.01s ... 0.00s ... 1.18s ... 0.12s ... 1.31s ... 346.1328125MB ... 36.54403591156006MB
+Prepare statevector n=16
+Building circuit...
+Starting transpile...
+Run simulation...
+16 ... 0.01s ... 0.00s ... 1.18s ... 0.13s ... 1.31s ... 347.609375MB ... 37.809465408325195MB
+Prepare statevector n=17
+Building circuit...
+Starting transpile...
+Run simulation...
+17 ... 0.02s ... 0.00s ... 1.17s ... 0.15s ... 1.33s ... 350.6875MB ... 40.323636054992676MB
+Prepare statevector n=18
+Building circuit...
+Starting transpile...
+Run simulation...
+18 ... 0.03s ... 0.00s ... 1.18s ... 0.16s ... 1.35s ... 356.78515625MB ... 45.337822914123535MB
+Prepare statevector n=19
+Building circuit...
+Starting transpile...
+Run simulation...
+19 ... 0.06s ... 0.00s ... 1.19s ... 0.19s ... 1.38s ... 365.3125MB ... 55.38428211212158MB
+Prepare statevector n=20
+Building circuit...
+Starting transpile...
+Run simulation...
+20 ... 0.11s ... 0.00s ... 1.18s ... 0.21s ... 1.39s ... 385.3984375MB ... 75.39914798736572MB
+Prepare statevector n=21
+Building circuit...
+Starting transpile...
+Run simulation...
+21 ... 0.23s ... 0.00s ... 1.18s ... 0.23s ... 1.42s ... 425.55859375MB ... 115.41372680664062MB
+Prepare statevector n=22
+Building circuit...
+Starting transpile...
+Run simulation...
+22 ... 0.45s ... 0.00s ... 1.17s ... 0.26s ... 1.44s ... 505.6796875MB ... 195.31543064117432MB
+Prepare statevector n=23
+Building circuit...
+Starting transpile...
+Run simulation...
+23 ... 0.89s ... 0.00s ... 1.17s ... 0.31s ... 1.48s ... 665.8515625MB ... 355.3332509994507MB
+Prepare statevector n=24
+Building circuit...
+Starting transpile...
+Run simulation...
+24 ... 1.76s ... 0.00s ... 1.18s ... 0.39s ... 1.57s ... 986.015625MB ... 675.349573135376MB
+Prepare statevector n=25
+Building circuit...
+Starting transpile...
+Run simulation...
+25 ... 3.47s ... 0.00s ... 1.19s ... 0.51s ... 1.70s ... 1626.15234375MB ... 1315.3667402267456MB
+Prepare statevector n=26
+Building circuit...
+Starting transpile...
+Run simulation...
+26 ... 6.89s ... 0.00s ... 1.19s ... 0.75s ... 1.95s ... 2906.40625MB ... 2595.3823471069336MB
+Prepare statevector n=27
+Building circuit...
+Starting transpile...
+Run simulation...
+27 ... 13.62s ... 0.00s ... 1.20s ... 1.23s ... 2.44s ... 5466.48046875MB ... 5155.4009437561035MB
+Prepare statevector n=28
+Building circuit...
+Starting transpile...
+Run simulation...
+28 ... 27.38s ... 0.00s ... 1.21s ... 2.20s ... 3.41s ... 10586.58203125MB ... 10275.418416023254MB
+Summary
+Qubits  ... init time ... composition time ... transpile ... simulaten time ... total time ... Memory
+1 ... 0.00s ... 0.00s ... 10.31s ... 0.19s ... 10.50s ... 342.0078125MB ... 35.07052135467529MB
+2 ... 0.00s ... 0.00s ... 1.14s ... 0.01s ... 1.15s ... 342.2421875MB ... 35.08324337005615MB
+3 ... 0.00s ... 0.00s ... 1.13s ... 0.01s ... 1.14s ... 342.515625MB ... 35.08324337005615MB
+4 ... 0.00s ... 0.00s ... 1.11s ... 0.01s ... 1.13s ... 342.59765625MB ... 35.08950901031494MB
+5 ... 0.00s ... 0.00s ... 1.12s ... 0.02s ... 1.14s ... 342.66015625MB ... 35.097055435180664MB
+6 ... 0.00s ... 0.00s ... 1.12s ... 0.02s ... 1.15s ... 342.77734375MB ... 35.11066818237305MB
+7 ... 0.00s ... 0.00s ... 1.13s ... 0.03s ... 1.16s ... 342.84765625MB ... 35.11066818237305MB
+8 ... 0.00s ... 0.00s ... 1.13s ... 0.04s ... 1.18s ... 342.95703125MB ... 35.131808280944824MB
+9 ... 0.00s ... 0.00s ... 1.13s ... 0.05s ... 1.18s ... 343.015625MB ... 35.131808280944824MB
+10 ... 0.00s ... 0.00s ... 1.13s ... 0.06s ... 1.19s ... 343.1953125MB ... 35.19911766052246MB
+11 ... 0.00s ... 0.00s ... 1.15s ... 0.07s ... 1.22s ... 343.3828125MB ... 35.26750946044922MB
+12 ... 0.00s ... 0.00s ... 1.13s ... 0.08s ... 1.21s ... 343.6484375MB ... 35.391456604003906MB
+13 ... 0.00s ... 0.00s ... 1.14s ... 0.09s ... 1.23s ... 344.15625MB ... 35.68599605560303MB
+14 ... 0.01s ... 0.00s ... 1.17s ... 0.10s ... 1.28s ... 345.01953125MB ... 35.90100574493408MB
+15 ... 0.01s ... 0.00s ... 1.18s ... 0.12s ... 1.31s ... 346.1328125MB ... 36.54403591156006MB
+16 ... 0.01s ... 0.00s ... 1.18s ... 0.13s ... 1.31s ... 347.609375MB ... 37.809465408325195MB
+17 ... 0.02s ... 0.00s ... 1.17s ... 0.15s ... 1.33s ... 350.6875MB ... 40.323636054992676MB
+18 ... 0.03s ... 0.00s ... 1.18s ... 0.16s ... 1.35s ... 356.78515625MB ... 45.337822914123535MB
+19 ... 0.06s ... 0.00s ... 1.19s ... 0.19s ... 1.38s ... 365.3125MB ... 55.38428211212158MB
+20 ... 0.11s ... 0.00s ... 1.18s ... 0.21s ... 1.39s ... 385.3984375MB ... 75.39914798736572MB
+21 ... 0.23s ... 0.00s ... 1.18s ... 0.23s ... 1.42s ... 425.55859375MB ... 115.41372680664062MB
+22 ... 0.45s ... 0.00s ... 1.17s ... 0.26s ... 1.44s ... 505.6796875MB ... 195.31543064117432MB
+23 ... 0.89s ... 0.00s ... 1.17s ... 0.31s ... 1.48s ... 665.8515625MB ... 355.3332509994507MB
+24 ... 1.76s ... 0.00s ... 1.18s ... 0.39s ... 1.57s ... 986.015625MB ... 675.349573135376MB
+25 ... 3.47s ... 0.00s ... 1.19s ... 0.51s ... 1.70s ... 1626.15234375MB ... 1315.3667402267456MB
+26 ... 6.89s ... 0.00s ... 1.19s ... 0.75s ... 1.95s ... 2906.40625MB ... 2595.3823471069336MB
+27 ... 13.62s ... 0.00s ... 1.20s ... 1.23s ... 2.44s ... 5466.48046875MB ... 5155.4009437561035MB
+28 ... 27.38s ... 0.00s ... 1.21s ... 2.20s ... 3.41s ... 10586.58203125MB ... 10275.418416023254MB
+CPU: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz | Cores: 32 | Arch: X86_64
+Aer method=statevector, device=GPU, available=['GPU']
+1 ... 0.00s ... 0.00s ... 12.29s ... 0.24s ... 12.54s ... 257.1MB RAM ... 796.0MB VRAM ... 35.0MB malloc
+2 ... 0.00s ... 0.00s ... 1.19s ... 0.01s ... 1.20s ... 352.4MB RAM ... 796.0MB VRAM ... 0.3MB malloc
+3 ... 0.00s ... 0.00s ... 1.18s ... 0.01s ... 1.19s ... 352.4MB RAM ... 796.0MB VRAM ... 0.2MB malloc
+4 ... 0.00s ... 0.00s ... 1.17s ... 0.02s ... 1.19s ... 352.4MB RAM ... 796.0MB VRAM ... 0.2MB malloc
+5 ... 0.00s ... 0.00s ... 1.17s ... 0.02s ... 1.19s ... 352.4MB RAM ... 796.0MB VRAM ... 0.3MB malloc
+6 ... 0.00s ... 0.00s ... 1.18s ... 0.02s ... 1.20s ... 352.5MB RAM ... 796.0MB VRAM ... 0.2MB malloc
+7 ... 0.00s ... 0.00s ... 1.17s ... 0.03s ... 1.20s ... 352.5MB RAM ... 796.0MB VRAM ... 0.2MB malloc
+8 ... 0.00s ... 0.00s ... 1.17s ... 0.04s ... 1.21s ... 352.5MB RAM ... 796.0MB VRAM ... 0.3MB malloc
+9 ... 0.00s ... 0.00s ... 1.17s ... 0.05s ... 1.22s ... 352.6MB RAM ... 796.0MB VRAM ... 0.2MB malloc
+10 ... 0.00s ... 0.00s ... 1.17s ... 0.06s ... 1.23s ... 352.7MB RAM ... 796.0MB VRAM ... 0.2MB malloc
+11 ... 0.00s ... 0.00s ... 1.17s ... 0.07s ... 1.24s ... 352.7MB RAM ... 796.0MB VRAM ... 0.3MB malloc
+12 ... 0.00s ... 0.00s ... 1.18s ... 0.08s ... 1.27s ... 352.8MB RAM ... 796.0MB VRAM ... 0.3MB malloc
+13 ... 0.00s ... 0.00s ... 1.19s ... 0.10s ... 1.29s ... 352.9MB RAM ... 797.9MB VRAM ... 0.4MB malloc
+14 ... 0.01s ... 0.00s ... 1.24s ... 0.11s ... 1.35s ... 353.5MB RAM ... 836.1MB VRAM ... 0.6MB malloc
+15 ... 0.00s ... 0.00s ... 1.22s ... 0.14s ... 1.36s ... 354.0MB RAM ... 845.3MB VRAM ... 1.1MB malloc
+16 ... 0.01s ... 0.00s ... 1.23s ... 0.14s ... 1.38s ... 356.4MB RAM ... 836.5MB VRAM ... 2.1MB malloc
+17 ... 0.02s ... 0.00s ... 1.24s ... 0.15s ... 1.39s ... 359.9MB RAM ... 834.5MB VRAM ... 4.2MB malloc
+18 ... 0.03s ... 0.00s ... 1.25s ... 0.17s ... 1.42s ... 365.0MB RAM ... 834.5MB VRAM ... 8.2MB malloc
+19 ... 0.06s ... 0.00s ... 1.23s ... 0.19s ... 1.43s ... 383.0MB RAM ... 834.5MB VRAM ... 16.2MB malloc
+20 ... 0.12s ... 0.00s ... 1.29s ... 0.21s ... 1.50s ... 411.0MB RAM ... 834.2MB VRAM ... 32.2MB malloc
+21 ... 0.23s ... 0.00s ... 1.23s ... 0.24s ... 1.47s ... 469.0MB RAM ... 834.2MB VRAM ... 64.2MB malloc
+22 ... 0.46s ... 0.00s ... 1.22s ... 0.28s ... 1.50s ... 506.2MB RAM ... 834.2MB VRAM ... 128.2MB malloc
+23 ... 0.92s ... 0.00s ... 1.23s ... 0.31s ... 1.55s ... 666.4MB RAM ... 834.2MB VRAM ... 256.2MB malloc
+24 ... 1.80s ... 0.00s ... 1.23s ... 0.39s ... 1.62s ... 993.7MB RAM ... 834.2MB VRAM ... 512.2MB malloc
+25 ... 3.56s ... 0.00s ... 1.23s ... 0.51s ... 1.75s ... 1626.5MB RAM ... 834.2MB VRAM ... 1024.2MB malloc
+26 ... 7.05s ... 0.00s ... 1.24s ... 0.76s ... 2.00s ... 2912.7MB RAM ... 833.3MB VRAM ... 2048.2MB malloc
+27 ... 14.08s ... 0.00s ... 1.25s ... 1.23s ... 2.48s ... 5474.4MB RAM ... 833.3MB VRAM ... 4096.2MB malloc
+28 ... 28.06s ... 0.00s ... 1.26s ... 2.20s ... 3.46s ... 10592.7MB RAM ... 833.3MB VRAM ... 8192.2MB malloc
+
+Summary
+1 ... 12.54s ... 257.1MB RAM ... 796.0MB VRAM
+2 ... 1.20s ... 352.4MB RAM ... 796.0MB VRAM
+3 ... 1.19s ... 352.4MB RAM ... 796.0MB VRAM
+4 ... 1.19s ... 352.4MB RAM ... 796.0MB VRAM
+5 ... 1.19s ... 352.4MB RAM ... 796.0MB VRAM
+6 ... 1.20s ... 352.5MB RAM ... 796.0MB VRAM
+7 ... 1.20s ... 352.5MB RAM ... 796.0MB VRAM
+8 ... 1.21s ... 352.5MB RAM ... 796.0MB VRAM
+9 ... 1.22s ... 352.6MB RAM ... 796.0MB VRAM
+10 ... 1.23s ... 352.7MB RAM ... 796.0MB VRAM
+11 ... 1.24s ... 352.7MB RAM ... 796.0MB VRAM
+12 ... 1.27s ... 352.8MB RAM ... 796.0MB VRAM
+13 ... 1.29s ... 352.9MB RAM ... 797.9MB VRAM
+14 ... 1.35s ... 353.5MB RAM ... 836.1MB VRAM
+15 ... 1.36s ... 354.0MB RAM ... 845.3MB VRAM
+16 ... 1.38s ... 356.4MB RAM ... 836.5MB VRAM
+17 ... 1.39s ... 359.9MB RAM ... 834.5MB VRAM
+18 ... 1.42s ... 365.0MB RAM ... 834.5MB VRAM
+19 ... 1.43s ... 383.0MB RAM ... 834.5MB VRAM
+20 ... 1.50s ... 411.0MB RAM ... 834.2MB VRAM
+21 ... 1.47s ... 469.0MB RAM ... 834.2MB VRAM
+22 ... 1.50s ... 506.2MB RAM ... 834.2MB VRAM
+23 ... 1.55s ... 666.4MB RAM ... 834.2MB VRAM
+24 ... 1.62s ... 993.7MB RAM ... 834.2MB VRAM
+25 ... 1.75s ... 1626.5MB RAM ... 834.2MB VRAM
+26 ... 2.00s ... 2912.7MB RAM ... 833.3MB VRAM
+27 ... 2.48s ... 5474.4MB RAM ... 833.3MB VRAM
+28 ... 3.46s ... 10592.7MB RAM ... 833.3MB VRAM
+CPU: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz | Cores: 32 | Arch: X86_64
+Aer method=statevector, device=GPU, available=['GPU']
+1 ... 0.00s ... 0.00s ... 9.84s ... 0.19s ... 10.03s ... 356.2MB RAM ... 849.3MB VRAM ... 35.0MB malloc
+2 ... 0.00s ... 0.00s ... 1.16s ... 0.01s ... 1.18s ... 352.3MB RAM ... 849.3MB VRAM ... 0.3MB malloc
+3 ... 0.00s ... 0.00s ... 1.13s ... 0.01s ... 1.14s ... 352.6MB RAM ... 849.3MB VRAM ... 0.2MB malloc
+4 ... 0.00s ... 0.00s ... 1.13s ... 0.01s ... 1.14s ... 352.7MB RAM ... 849.3MB VRAM ... 0.3MB malloc
+5 ... 0.00s ... 0.00s ... 1.13s ... 0.02s ... 1.15s ... 352.7MB RAM ... 849.3MB VRAM ... 0.3MB malloc
+6 ... 0.00s ... 0.00s ... 1.15s ... 0.03s ... 1.18s ... 352.7MB RAM ... 849.3MB VRAM ... 0.3MB malloc
+7 ... 0.00s ... 0.00s ... 1.15s ... 0.03s ... 1.18s ... 352.8MB RAM ... 849.3MB VRAM ... 0.2MB malloc
+8 ... 0.00s ... 0.00s ... 1.14s ... 0.04s ... 1.18s ... 352.8MB RAM ... 849.3MB VRAM ... 0.2MB malloc
+9 ... 0.00s ... 0.00s ... 1.14s ... 0.04s ... 1.19s ... 352.8MB RAM ... 849.3MB VRAM ... 0.2MB malloc
+10 ... 0.00s ... 0.00s ... 1.12s ... 0.06s ... 1.18s ... 352.9MB RAM ... 849.3MB VRAM ... 0.2MB malloc
+11 ... 0.00s ... 0.00s ... 1.15s ... 0.07s ... 1.22s ... 352.9MB RAM ... 849.3MB VRAM ... 0.3MB malloc
+12 ... 0.00s ... 0.00s ... 1.15s ... 0.08s ... 1.23s ... 353.1MB RAM ... 849.3MB VRAM ... 0.3MB malloc
+13 ... 0.00s ... 0.00s ... 1.14s ... 0.09s ... 1.24s ... 353.1MB RAM ... 849.3MB VRAM ... 0.4MB malloc
+14 ... 0.00s ... 0.00s ... 1.17s ... 0.10s ... 1.28s ... 353.7MB RAM ... 849.3MB VRAM ... 0.6MB malloc
+15 ... 0.01s ... 0.00s ... 1.20s ... 0.12s ... 1.33s ... 354.5MB RAM ... 849.3MB VRAM ... 1.1MB malloc
+16 ... 0.01s ... 0.00s ... 1.18s ... 0.14s ... 1.32s ... 356.5MB RAM ... 849.3MB VRAM ... 2.1MB malloc
+17 ... 0.02s ... 0.00s ... 1.19s ... 0.15s ... 1.34s ... 360.1MB RAM ... 849.3MB VRAM ... 4.2MB malloc
+18 ... 0.03s ... 0.00s ... 1.20s ... 0.16s ... 1.36s ... 365.1MB RAM ... 849.3MB VRAM ... 8.2MB malloc
+19 ... 0.06s ... 0.00s ... 1.19s ... 0.18s ... 1.38s ... 384.3MB RAM ... 849.3MB VRAM ... 16.2MB malloc
+20 ... 0.12s ... 0.00s ... 1.20s ... 0.20s ... 1.40s ... 411.6MB RAM ... 849.3MB VRAM ... 32.2MB malloc
+21 ... 0.23s ... 0.00s ... 1.20s ... 0.23s ... 1.43s ... 469.2MB RAM ... 850.7MB VRAM ... 64.2MB malloc
+22 ... 0.47s ... 0.00s ... 1.19s ... 0.26s ... 1.45s ... 510.4MB RAM ... 850.9MB VRAM ... 128.2MB malloc
+23 ... 0.90s ... 0.00s ... 1.18s ... 0.31s ... 1.49s ... 673.5MB RAM ... 888.4MB VRAM ... 256.2MB malloc
+24 ... 1.79s ... 0.00s ... 1.20s ... 0.38s ... 1.59s ... 992.9MB RAM ... 895.9MB VRAM ... 512.2MB malloc
+25 ... 3.56s ... 0.00s ... 1.18s ... 0.50s ... 1.68s ... 1633.2MB RAM ... 886.1MB VRAM ... 1024.2MB malloc
+26 ... 6.99s ... 0.00s ... 1.19s ... 0.73s ... 1.93s ... 2908.9MB RAM ... 885.8MB VRAM ... 2048.2MB malloc
+27 ... 13.96s ... 0.00s ... 1.21s ... 1.22s ... 2.43s ... 5473.4MB RAM ... 884.9MB VRAM ... 4096.2MB malloc
+28 ... 27.92s ... 0.00s ... 1.22s ... 2.19s ... 3.42s ... 10590.9MB RAM ... 844.3MB VRAM ... 8192.2MB malloc
+
+Summary
+1 ... 10.03s ... 356.2MB RAM ... 849.3MB VRAM
+2 ... 1.18s ... 352.3MB RAM ... 849.3MB VRAM
+3 ... 1.14s ... 352.6MB RAM ... 849.3MB VRAM
+4 ... 1.14s ... 352.7MB RAM ... 849.3MB VRAM
+5 ... 1.15s ... 352.7MB RAM ... 849.3MB VRAM
+6 ... 1.18s ... 352.7MB RAM ... 849.3MB VRAM
+7 ... 1.18s ... 352.8MB RAM ... 849.3MB VRAM
+8 ... 1.18s ... 352.8MB RAM ... 849.3MB VRAM
+9 ... 1.19s ... 352.8MB RAM ... 849.3MB VRAM
+10 ... 1.18s ... 352.9MB RAM ... 849.3MB VRAM
+11 ... 1.22s ... 352.9MB RAM ... 849.3MB VRAM
+12 ... 1.23s ... 353.1MB RAM ... 849.3MB VRAM
+13 ... 1.24s ... 353.1MB RAM ... 849.3MB VRAM
+14 ... 1.28s ... 353.7MB RAM ... 849.3MB VRAM
+15 ... 1.33s ... 354.5MB RAM ... 849.3MB VRAM
+16 ... 1.32s ... 356.5MB RAM ... 849.3MB VRAM
+17 ... 1.34s ... 360.1MB RAM ... 849.3MB VRAM
+18 ... 1.36s ... 365.1MB RAM ... 849.3MB VRAM
+19 ... 1.38s ... 384.3MB RAM ... 849.3MB VRAM
+20 ... 1.40s ... 411.6MB RAM ... 849.3MB VRAM
+21 ... 1.43s ... 469.2MB RAM ... 850.7MB VRAM
+22 ... 1.45s ... 510.4MB RAM ... 850.9MB VRAM
+23 ... 1.49s ... 673.5MB RAM ... 888.4MB VRAM
+24 ... 1.59s ... 992.9MB RAM ... 895.9MB VRAM
+25 ... 1.68s ... 1633.2MB RAM ... 886.1MB VRAM
+26 ... 1.93s ... 2908.9MB RAM ... 885.8MB VRAM
+27 ... 2.43s ... 5473.4MB RAM ... 884.9MB VRAM
+28 ... 3.42s ... 10590.9MB RAM ... 844.3MB VRAM
+CPU: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz | Cores: 32 | Arch: X86_64
+Aer method=statevector, device=GPU, available=['GPU']
+26 ... 6.99s ... 0.01s ... 10.51s ... 0.92s ... 11.43s ... 2226.3MB RAM ... 844.3MB VRAM ... 2048.2MB malloc
+27 ... 14.02s ... 0.00s ... 1.22s ... 1.22s ... 2.44s ... 5474.0MB RAM ... 844.3MB VRAM ... 4096.2MB malloc
+28 ... 28.05s ... 0.00s ... 1.22s ... 2.20s ... 3.43s ... 10586.4MB RAM ... 844.3MB VRAM ... 8192.2MB malloc
+29 ... 56.09s ... 0.00s ... 1.22s ... 0.37s ... 1.60s ... 20828.4MB RAM ... 844.3MB VRAM ... 16384.2MB malloc
+30 ... 112.00s ... 0.00s ... 1.22s ... 0.40s ... 1.62s ... 41308.5MB RAM ... 844.3MB VRAM ... 32768.2MB malloc
+31 ... 223.37s ... 0.01s ... 1.26s ... 0.41s ... 1.68s ... 82275.0MB RAM ... 936.4MB VRAM ... 65536.2MB malloc
+32 ... 483.30s ... 0.01s ... 1.36s ... 0.43s ... 1.79s ... 164194.5MB RAM ... 848.7MB VRAM ... 131072.2MB malloc
